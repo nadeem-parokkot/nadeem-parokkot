@@ -10,7 +10,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Data Science 
-- 🌱 I’m currently learning python Data Structure...
+- 🌱 I’m currently learning ML
 - 💬 Ask me about innovations...
 - 📫 Reach me nadeemparokkot@gmail.com
 - 😄 My official Name Hamza Nadeem P
