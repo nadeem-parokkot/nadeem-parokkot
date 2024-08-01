@@ -9,10 +9,10 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Data Science 
-- 🌱 I’m currently learning ML
+- 🔭 I’m currently working on Gen AI 
+- 🌱 I’m currently learning about 4th Industrial Revolution
 - 💬 Ask me about innovations...
 - 📫 Reach me nadeemparokkot@gmail.com
-- 😄 My official Name Hamza Nadeem P
+- 😄 My official Name Nadeem Parokkot
 
 
