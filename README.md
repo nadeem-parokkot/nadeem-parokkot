@@ -8,7 +8,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Gen AI 
-- 🌱 I’m currently learning about 4th Industrial Revolution
+- 🌱 I’m preparing for 4th Industrial Revolution
 - 💬 Ask me about innovations...
 - 📫 Reach me nadeemparokkot@gmail.com
 - 😄 My official Name Nadeem Parokkot
